@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emmanueleperez
+- 👋 Hi, I’m @emmanueleperez I am a recent CS grad from Montclair State University who loves bringing designs to life and working wiht modern tech.
 - 👀 I’m interested in Web Development!
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on projects using MERN stack.
